@@ -15,3 +15,11 @@ num2 = 4545665;
 //boolean
 let value: boolean = false;
 value.valueOf
+
+let hero : string;
+function getHero(){
+    return "thor"
+}
+
+
+hero = getHero()
